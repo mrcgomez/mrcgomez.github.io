@@ -43,10 +43,17 @@ html {
   header h2 {
     font-size: 2em;
   }
-  h1, h2 {
+  h1, {
     font-weight: 700;
     margin: 0;
   }
+
+  h2, h3 {
+
+    font-family: 'Open Sans', sans-serif;
+
+  }
+  
   .content-wrap {
     max-width: 800px;
     width: 85%;
